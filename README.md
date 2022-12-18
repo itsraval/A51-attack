@@ -1,8 +1,8 @@
 # A51-attack
-Questo è la mia personale implementazione dell'attacco base di Biham e Dunkelman, su singolo frame, ad A5/1.
+This is my own implementation of Biham and Dunkelman's single-frame basic lead at A5/1.
 
-Per avviare l'attacco basta eseguire il file compileAttak.bat presente nella cartella compileBat.
-Esso compila tutti i file necessari e il sorgente main attack.c e restituisce l'output nel file "keyRegisterState.txt" nella cartella textFiles.
-Si è deciso di utilizzare un file bat per l'esecuzione in modo tale che tutti i file necessari fossero aggiornati nel momento della compilazione dell'attacco e in modo da rendere più veloci ed efficienti possibili modifiche e testing.
+To start the attack just execute the compileAttak.bat file present in the compileBat folder.
+It compiles all the necessary files and the main attack.c source and returns the output in the "keyRegisterState.txt" file in the textFiles folder.
+It was decided to use a bat file for execution in such a way that all the necessary files were updated when the attack was compiled in order to make possible modifications and testing faster and more efficient.
 
-[Tesi di laurea PDF](https://drive.google.com/file/d/1gaiGMONPWJiHxv_60bF56cPBnZh1EWMa/view?usp=sharing)
+[Bachelor's Degree Dissertation PDF (Italian only)](https://drive.google.com/file/d/1gaiGMONPWJiHxv_60bF56cPBnZh1EWMa/view?usp=sharing)
